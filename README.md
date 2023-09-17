@@ -22,7 +22,8 @@ Simple example of python sum() function usage and checking/testing, see:
 
 ---
 
-![example workflow]
-(https://github.com/alvmiller/check_sum_func_py/actions/workflows/sum-check.yml/badge.svg)
+![example workflow](https://github.com/alvmiller/check_sum_func_py/actions/workflows/sum-check.yml/badge.svg)
+Latest MAIN branch status:<br>
+<img src="https://github.com/alvmiller/check_sum_func_py/actions/workflows/sum-check.yml/badge.svg"><br>
 
 ---
