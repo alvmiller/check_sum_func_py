@@ -21,3 +21,8 @@ Simple example of python sum() function usage and checking/testing, see:
 - https://blog.dennisokeeffe.com/blog/2021-08-08-pytest-with-github-actions
 
 ---
+
+![example workflow]
+(https://github.com/alvmiller/check_sum_func_py/actions/workflows/sum-check.yml/badge.svg)
+
+---
