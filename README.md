@@ -19,6 +19,10 @@ Simple example of python sum() function usage and checking/testing, see:
 - https://thiagolopessilva.medium.com/running-unit-testing-on-github-action-using-pytest-61653d993c9c
 - https://blog.deepjyoti30.dev/tests-github-python
 - https://blog.dennisokeeffe.com/blog/2021-08-08-pytest-with-github-actions
+- https://www.browserstack.com/guide/pytest-vs-unittest
+- https://python.plainenglish.io/pythons-flake8-4658ac1e786f
+- https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ---
 
