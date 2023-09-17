@@ -17,15 +17,25 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Display Python version
+      run: |
+        python -c "import sys; print(sys.version)"
+    
+    - name: Current commit hash
+      run: |
+        echo "Current commit hash value is ${{ github.sha }}"
+    
     - name: Test with unittest
       run: |
-        echo "Here should be test"
-        echo "App commit hash is ${{ github.sha }}"
+        python -m unittest test.SumTestCase
