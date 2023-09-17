@@ -4,8 +4,7 @@ Checking sum() function in Python
 ---
 
 #### Simple example:
-Simple example of python sum() function usage and checking/testing
-See:
+Simple example of python sum() function usage and checking/testing, see:
 - https://realpython.com/python-sum-function/
 - https://realpython.com/python-testing/
 - https://www.freecodecamp.org/news/how-to-write-unit-tests-for-python-functions/
