@@ -3,7 +3,12 @@ Checking sum() function in Python
 
 ---
 
-#### Simple example:
+Latest status:<br>
+![example workflow](https://github.com/alvmiller/check_sum_func_py/actions/workflows/sum-check.yml/badge.svg)
+
+---
+
+#### Simple example
 Simple example of python sum() function usage and checking/testing, see:
 - https://realpython.com/python-sum-function/
 - https://realpython.com/python-testing/
@@ -23,10 +28,5 @@ Simple example of python sum() function usage and checking/testing, see:
 - https://python.plainenglish.io/pythons-flake8-4658ac1e786f
 - https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/adding-a-workflow-status-badge
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
----
-
-Latest status:<br>
-![example workflow](https://github.com/alvmiller/check_sum_func_py/actions/workflows/sum-check.yml/badge.svg)
 
 ---
